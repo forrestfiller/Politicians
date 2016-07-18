@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4651A3486E60ECEE7EBA799E3DB6723620DDDA9E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4651A3486E60ECEE7EBA799E3DB6723620DDDA9E" : 0,
+    "208BE3FC4DD8ED3B422337B75275D2C4E46F255C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "81F4F72F-433B-4E4B-8120-72EA5EBC0618",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4651A3486E60ECEE7EBA799E3DB6723620DDDA9E" : "Politicians\/Politicians\/",
+    "208BE3FC4DD8ED3B422337B75275D2C4E46F255C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Politicians",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Politicians.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/forrestfiller\/InstagramAPI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "208BE3FC4DD8ED3B422337B75275D2C4E46F255C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/forrestfiller\/basic-app-interact-with-backend.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4651A3486E60ECEE7EBA799E3DB6723620DDDA9E"
+    }
+  ]
+}
